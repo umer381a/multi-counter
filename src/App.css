@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    padding: 10px 20px
+}
+
+p {
+    font-size: 30px;
+}
